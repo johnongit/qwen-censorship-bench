@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+
+qwen-censorship-bench-*/
+
+# This completed run is intentionally published with the repository.
+!qwen-censorship-bench-20260819-173332/
+!qwen-censorship-bench-20260819-173332/**
+results/*
+!results/.gitkeep
