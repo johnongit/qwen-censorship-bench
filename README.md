@@ -131,6 +131,10 @@ The completed run [`qwen-censorship-bench-20260819-173332/`](qwen-censorship-ben
 is published as a reproducible example. It is an explicit `.gitignore`
 exception; other generated `qwen-censorship-bench-*` directories remain ignored.
 
+The follow-up comparison with the obliterated model is documented in
+[`COMPARISON_base_vs_obliterated.md`](COMPARISON_base_vs_obliterated.md), with
+the complete run in [`qwen-censorship-bench-20260820-083417/`](qwen-censorship-bench-20260820-083417/).
+
 ---
 
 ## Create a virtual environment
